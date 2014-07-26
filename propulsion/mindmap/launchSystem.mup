@@ -19,141 +19,147 @@
                   "title": "Electromagnetic",
                   "id": 11,
                   "ideas": {
-                    "2": {
-                      "title": "Electrostatic",
-                      "id": 21,
+                    "3": {
+                      "title": "Electromagnetic",
+                      "id": 27,
                       "ideas": {
                         "1": {
-                          "title": "Ion/plasma Thruster",
-                          "id": 12,
-                          "attr": {
-                            "attachment": {
-                              "contentType": "text/html",
-                              "content": "https://en.wikipedia.org/wiki/Ion_thruster"
-                            },
-                            "style": {
-                              "background": "#ffff99"
-                            }
-                          },
-                          "ideas": {
-                            "1": {
-                              "title": "Electrostatic ion thruster (Ion Bombardment)",
-                              "id": 14,
-                              "attr": {
-                                "style": {
-                                  "background": "#ffff99"
-                                }
-                              }
-                            },
-                            "2": {
-                              "title": "Colloid ion thruster",
-                              "id": 16
-                            },
-                            "4": {
-                              "title": "Nano-particle field extraction thruster",
-                              "id": 19
-                            },
-                            "1.5": {
-                              "title": "Hall effect thruster",
-                              "id": 20,
-                              "attr": {
-                                "style": {
-                                  "background": "#ffff99"
-                                }
-                              }
-                            },
-                            "1.75": {
-                              "title": "Field Emission Electric Propulsion",
-                              "id": 18,
-                              "attr": {
-                                "style": {
-                                  "background": "#ffff99"
-                                },
-                                "position": [
-                                  83.5,
-                                  -50.701904296875,
-                                  1
-                                ]
-                              }
-                            }
-                          }
+                          "title": "Electrodeless plasma thruster",
+                          "id": 28,
+                          "ideas": {}
                         },
                         "2": {
-                          "title": "Electrothermal",
-                          "id": 22,
-                          "ideas": {
-                            "1": {
-                              "title": "Microwave arcjet",
-                              "id": 23
-                            },
-                            "2": {
-                              "title": "DC arcjet",
-                              "id": 24
-                            },
-                            "1.5": {
-                              "title": "Resistojet",
-                              "id": 26
-                            }
-                          }
+                          "title": "MPD (magnetoplasmadynamic) thruster",
+                          "id": 29
                         },
                         "3": {
-                          "title": "Electromagnetic",
-                          "id": 27,
-                          "ideas": {
-                            "1": {
-                              "title": "Electrodeless plasma thruster",
-                              "id": 28
+                          "title": "Pulsed inductive thruster",
+                          "id": 30
+                        },
+                        "4": {
+                          "title": "Pulsed plasma thruster",
+                          "id": 31
+                        },
+                        "5": {
+                          "title": "Helicon Double Layer Thruster",
+                          "id": 32
+                        },
+                        "0.5": {
+                          "title": "VASIMR",
+                          "id": 33,
+                          "attr": {
+                            "style": {
+                              "background": "#ffff99"
                             },
-                            "2": {
-                              "title": "MPD (magnetoplasmadynamic) thruster",
-                              "id": 29
+                            "position": [
+                              71.5,
+                              -210.6875,
+                              1
+                            ]
+                          }
+                        },
+                        "0.75": {
+                          "title": "Quantum Vacuum Plasma Thruster",
+                          "id": 34,
+                          "attr": {
+                            "style": {
+                              "background": "#ffff99"
                             },
-                            "3": {
-                              "title": "Pulsed inductive thruster",
-                              "id": 30
+                            "position": [
+                              46.5,
+                              -167.91796875,
+                              2
+                            ]
+                          }
+                        },
+                        "0.875": {
+                          "title": "Hall effect thruster",
+                          "id": 20,
+                          "attr": {
+                            "style": {
+                              "background": "#ffff99"
                             },
-                            "4": {
-                              "title": "Pulsed plasma thruster",
-                              "id": 31
-                            },
-                            "5": {
-                              "title": "Helicon Double Layer Thruster",
-                              "id": 32
-                            },
-                            "0.5": {
-                              "title": "VASIMR",
-                              "id": 33,
-                              "attr": {
-                                "style": {
-                                  "background": "#ffff99"
-                                },
-                                "position": [
-                                  71.5,
-                                  -210.6875,
-                                  1
-                                ]
-                              }
-                            },
-                            "0.75": {
-                              "title": "Quantum Vacuum Plasma Thruster",
-                              "id": 34,
-                              "attr": {
-                                "style": {
-                                  "background": "#ffff99"
-                                },
-                                "position": [
-                                  46.5,
-                                  -167.91796875,
-                                  2
-                                ]
-                              }
-                            }
+                            "position": [
+                              29.5,
+                              -125.18659973144531,
+                              3
+                            ]
                           }
                         }
                       },
                       "attr": {
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "Electrothermal",
+                      "id": 22,
+                      "ideas": {
+                        "1": {
+                          "title": "Microwave arcjet",
+                          "id": 23
+                        },
+                        "2": {
+                          "title": "DC arcjet",
+                          "id": 24
+                        },
+                        "1.5": {
+                          "title": "Resistojet",
+                          "id": 26
+                        }
+                      },
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "2.5": {
+                      "title": "Electrostatic Ion/plasma Thruster",
+                      "id": 12,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "https://en.wikipedia.org/wiki/Ion_thruster"
+                        },
                         "style": {
                           "background": "#ffff99"
+                        },
+                        "position": [
+                          34.5,
+                          -168.1195831298828,
+                          1
+                        ]
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Electrostatic ion thruster (Ion Bombardment)",
+                          "id": 14,
+                          "attr": {
+                            "style": {
+                              "background": "#ffff99"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Colloid ion thruster",
+                          "id": 16
+                        },
+                        "4": {
+                          "title": "Nano-particle field extraction thruster",
+                          "id": 19
+                        },
+                        "1.75": {
+                          "title": "Field Emission Electric Propulsion",
+                          "id": 18,
+                          "attr": {
+                            "style": {
+                              "background": "#ffff99"
+                            },
+                            "position": [
+                              83.5,
+                              -50.701904296875,
+                              1
+                            ]
+                          }
                         }
                       }
                     }
@@ -292,6 +298,9 @@
                 }
               }
             }
+          },
+          "attr": {
+            "style": {}
           }
         }
       }
@@ -357,7 +366,7 @@
           "id": 70,
           "ideas": {
             "1": {
-              "title": "Reactionless drives ",
+              "title": "Reactionless drivesÂ ",
               "id": 71
             },
             "0.5": {
