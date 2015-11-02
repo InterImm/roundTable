@@ -24,4 +24,4 @@ roundTable
 
 ## Shield.io Badge
 
-`https://img.shields.io/badge/%E5%9C%86%E6%A1%8C%E4%BC%9A%E8%AE%AE-17%E6%9C%9F-green.svg?style=flat-square`
+`https://img.shields.io/badge/星际圆桌-第17期-green.svg?style=flat-square`
